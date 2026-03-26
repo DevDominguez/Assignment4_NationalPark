@@ -1,7 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="NationalParks.xsd">
-
+<NationalPark>
+	<Name>Yellowstone</Name>
+	<Phone>307-344-7381</Phone>
+	<Address NearestAirport="Bozeman">
+		<Number>2</Number>
+		<Street>Grand Loop Road</Street>
+		<City>Yellowstone National Park</City>
+		<State>WY</State>
+		<Zip>82190</Zip>
+	</Address>
+</NationalPark>
+	
 	<NationalPark Rating="4.9">
 		<Name>Great Smoky Mountains</Name>
 		<Phone>865-436-1200</Phone>
