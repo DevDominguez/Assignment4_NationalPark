@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="NationalParks.xsd">
-<NationalPark>
+<NationalPark Rating ="4.7>
 	<Name>Yellowstone</Name>
 	<Phone>307-344-7381</Phone>
 	<Address NearestAirport="Bozeman">
