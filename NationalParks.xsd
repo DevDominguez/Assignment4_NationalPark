@@ -17,7 +17,7 @@
 							<xs:element name="address">
 								<xs:complexType>
 									<xs:sequence>
-										<xs:element type="xs:short" name="number"/>
+										<xs:element type="xs:int" name="number"/>
 										<xs:element type="xs:string" name="street"/>
 										<xs:element type="xs:string" name="city"/>
 										<xs:element type="xs:string" name="state"/>
