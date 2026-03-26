@@ -30,17 +30,15 @@
 	</NationalPark>
 
 	<NationalPark rating="4.9">
-	<name>Great Smoky Mountains</name>
-	<phone>865-436-1200</phone>
-	<phone>865-436-1291</phone>
-	<address NearestAirport="Knoxville">
-		<number>107</number>
-		<street>Park Headquarters Road</street>
-		<city>Gatlinburg</city>
-		<state>TN</state>
-		<zip>37738</zip>
-	</address>
-</NationalPark>
+		<name>Great Smoky Mountains</name>
+		<address NearestAirport="Knoxville">
+			<number>107</number>
+			<street>Park Headquarters Road</street>
+			<city>Gatlinburg</city>
+			<state>TN</state>
+			<zip>37738</zip>
+		</address>
+	</NationalPark>
 
 	<NationalPark rating="4.8">
 		<name>Zion</name>
