@@ -2,7 +2,6 @@
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="NationalParks.xsd">
 <!-- This file represents and instances of 11 national parks -->
-<NationalParks>
 <NationalPark rating="4.3">
 <name>Grand Canyon</name>
 <phone>928-638-7496</phone>
@@ -128,5 +127,4 @@
 <zip>92277</zip>
 </address>
 </NationalPark>
-</NationalParks>
 </NationalParks>
