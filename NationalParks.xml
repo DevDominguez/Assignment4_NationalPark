@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
 <!-- This file represents and instances of 11 national parks -->
 <NationalParks>
 <NationalPark rating="4.3">
