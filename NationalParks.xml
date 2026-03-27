@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+               xsi:noNamespaceSchemaLocation="https://devdominguez.github.io/Assignment4_NationalPark/NationalParks.xsd">
 <!-- This file represents and instances of 11 national parks -->
 <NationalPark rating="4.3">
 <name>Grand Canyon</name>
